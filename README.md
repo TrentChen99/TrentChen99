@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I am Trent👋
 
-<!--
-**TrentChen99/TrentChen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Web Developer | AI & Scalable Systems Enthusiast  
+**Crafting AI-driven solutions, building scalable web apps, and pushing the boundaries of full-stack development.**  
 
-Here are some ideas to get you started:
+#### 💻 Expertise  
+AI-powered systems • Scalable architecture • LLM integration • Web app development (Java/Spring Boot, Vue.js, Python)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Projects  
+- **AI Digital Employee Platform** at [GCCT](http://www.kdgcsoft.com/)  
+  → Integrated **LLMs** to optimize **China Mobile’s** dispatch workflows.  
+- **Educator-Focused Developer Tools** at [Innovation AI](https://innovationaico.com/)  
+  → Built an **online Java compiler** & a **centralized learning hub** for instructors.  
+- **Telecom System Enhancements**  
+  → Led **Vue.js migrations, performance optimizations, and data visualization** for telecom giants.  
+
+#### 🛠️ Tech Stack  
+  - **Java** • **Python** • **JavaScript/TypeScript** • **Spring Boot** • **Vue.js** • **MySQL** • **RESTful APIs**  
+
+#### 🌍 Portfolio  
+  - **Personal Site:** [Welcome To The Jungle](https://trentundertow.com)  
+
+#### 🎓 Education  
+  - 🎓 **B.S. in Computer Science** | North Carolina State University  
+
+#### 🤔 Beside coding?  
+  - 🎶 **80s Hard Rock, Glam Metal, Shred Guitar** • 🚲 **BMX Rider**  
+
+
