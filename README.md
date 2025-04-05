@@ -9,7 +9,7 @@ AI-powered systems • Scalable architecture • LLM integration • Web app dev
 #### 🎯 Projects  
 - **AI Digital Employee Platform** at [GCCT](http://www.kdgcsoft.com/)  
   → Integrated **LLMs** to optimize **China Mobile’s** dispatch workflows.  
-- **Educator-Focused Developer Tools** at [Innovation AI](https://innovationaico.com/)  
+- **Canvas Web App** at [Innovation AI](https://innovationaico.com/)  
   → Built an **online Java compiler** & a **centralized learning hub** for instructors.  
 - **Telecom System Enhancements**  
   → Led **Vue.js migrations, performance optimizations, and data visualization** for telecom giants.  
