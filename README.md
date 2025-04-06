@@ -1,5 +1,3 @@
-## Hi, I am Trent👋
-
 ### 🚀 Full-Stack Web Developer | AI & Scalable Systems Enthusiast  
 **Crafting AI-driven solutions, building scalable web apps, and pushing the boundaries of full-stack development.**  
 
