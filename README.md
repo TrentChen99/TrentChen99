@@ -19,7 +19,8 @@ AI-powered systems • Scalable architecture • LLM integration • Web app dev
   - **Personal Site:** [Welcome To The Jungle](https://trentundertow.com)  
 
 #### 🎓 Education  
-  - 🎓 **B.S. in Computer Science** | North Carolina State University  
+  - 🎓 **B.S. in Computer Science** | North Carolina State University
+  - 🎓 **M.S. in Information Science** - **Fall 2025** | University of Pittsburgh
 
 #### 🤔 Beside coding?  
   - 🎶 **80s Hard Rock, Glam Metal, Shred Guitar** • 🚲 **BMX Rider**  
