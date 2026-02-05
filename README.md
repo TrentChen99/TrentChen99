@@ -5,8 +5,6 @@
 AI-powered systems • Scalable architecture • LLM integration • Web app development (Java/Spring Boot, Vue.js, Python)  
 
 #### 🎯 Projects   
-- **Canvas Web App** at [Innovation AI](https://innovationaico.com/)  
-  → Built an **online Java compiler** & a **centralized learning hub** for instructors.
 - **AI Digital Employee Platform** at [GCCT](http://www.kdgcsoft.com/)  
   → Integrated **LLMs** to optimize **China Mobile’s** dispatch workflows.
 - **Telecom System Enhancements**  
